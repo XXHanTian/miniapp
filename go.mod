@@ -1,3 +1,3 @@
-module github.com/XXHanTian/weapp/v2
+module github.com/XXHanTian/weapp
 
-go 1.12
+go 1.14
